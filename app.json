@@ -1,9 +1,9 @@
 {
-    "name": "PYROGRAMBOT",
-    "description": "A Modular telegram bot.",
-    "repository": "https://github.com/bughunter0",
+    "name": "Mp4-to-Mp3-Conveter",
+    "description": "A mp4 to mp3 converter telegram bot.",
+    "repository": "https://github.com/bughunter0/Mp4-to-Mp3-Conveter",
     "keywords": [
-       
+        "video to audio",
         "telegram bot",
         "pyrogram"
     ],
